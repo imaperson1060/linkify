@@ -4,6 +4,10 @@
 	"description": "Turn text links into A tags",
 	"version": "0.1.0",
 	"publisher": "ImaPerson",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/imaperson/linkify"
+	},
 	"engines": {
 		"vscode": "^1.69.0"
 	},
